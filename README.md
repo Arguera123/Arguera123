@@ -14,7 +14,6 @@
 - ✨ Always learning and improving, because every day is a new opportunity.
 - 🌱 Currently diving deeper into cybersecurity and network security.
 - 🏙 Active member of various tech communities and constantly contributing to open-source projects.
-- 💻 Check out my [Portfolio](https://github.com/YourGitHubUsername) for more details.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
