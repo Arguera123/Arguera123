@@ -106,7 +106,7 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/oscar-calderon" target="_blank">
+ <a href="https://www.linkedin.com/in/oscar-calder%C3%B3n-317a9a2a6/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
@@ -127,9 +127,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-------
-
-Credit: [Oscar Calderón](https://github.com/YourGitHubUsername)
-
-Last Edited on: 29/11/2023
